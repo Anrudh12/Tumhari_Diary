@@ -1,0 +1,15 @@
+.navbar-custom {
+  background-color: #000000a8 !important;
+}
+
+.custom_logo {
+  height: 4rem;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.container {
+  margin-top: 8rem;
+}

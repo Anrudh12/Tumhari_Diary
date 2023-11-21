@@ -1,0 +1,58 @@
+body {
+  background: url(../images/home.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: white;
+  background-attachment: fixed;
+}
+
+li.list-group-item {
+  margin: 1px 0;
+  background-color: rgba(60, 60, 60, 0.7);
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px !important;
+}
+
+.btn_actions {
+  width: 100%;
+  height: 5.15vh;
+  background: none;
+  padding: 0;
+  border: 1px #2196f3 solid;
+  color: white;
+  font-size: 15px;
+  outline: none;
+  letter-spacing: 2px;
+}
+
+.btn_actions:hover,
+focus {
+  border: 1px aqua solid;
+  outline: none;
+}
+
+.read_list_link {
+  text-decoration: none;
+  color: white;
+}
+
+.read_list_link:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.time_stamp {
+  text-align: end;
+}
+
+.title_font {
+  font-family: "Cedarville Cursive", cursive;
+  font-size: 30px;
+}
+
+.no_entries {
+  text-align: center;
+  height: 50vh;
+  translate: 0% 25%;
+}

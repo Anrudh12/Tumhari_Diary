@@ -1,0 +1,69 @@
+body {
+  background: url(../images/home.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: white;
+  background-attachment: fixed;
+}
+
+.user_message {
+  color: white;
+  font-family: "Cedarville Cursive", cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+textarea {
+  resize: none;
+}
+
+.form-control {
+  background: none;
+  color: white;
+  border: solid 2px aqua;
+  border-radius: 0px;
+}
+
+.diary_background {
+  background-color: rgba(60, 60, 60, 0.7);
+}
+
+.form-control:focus {
+  color: white;
+  background: none;
+  box-shadow: none;
+}
+
+input[type="submit"] {
+  width: 8rem;
+  height: 5.15vh;
+  background: none;
+  padding: 0;
+  border: 1px #2196f3 solid;
+  color: white;
+  font-size: 15px;
+  outline: none;
+  letter-spacing: 2px;
+}
+
+input[type="submit"]:hover {
+  border: 1px aqua solid;
+}
+
+input::-webkit-input-placeholder {
+  color: white !important;
+}
+
+input::-moz-placeholder {
+  /* Firefox 19+ */
+  color: white !important;
+}
+
+label.error {
+  float: right;
+  color: yellow;
+}
+
+.message_success {
+  color: rgb(246, 255, 0);
+}

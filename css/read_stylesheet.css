@@ -1,0 +1,29 @@
+body {
+  background: url(../images/home.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: white;
+  background-attachment: fixed;
+}
+
+.diary_background {
+  background-color: rgba(60, 60, 60, 0.7);
+}
+
+.read_window {
+  min-height: 80vh;
+  color: white;
+}
+
+.title_font {
+  font-family: "Cedarville Cursive", cursive;
+  font-size: 42px;
+  text-align: center;
+}
+
+.entry_font pre{
+  font-family: "Cedarville Cursive", cursive;
+  font-size: 25px;
+  color:white;
+  overflow:hidden;
+}

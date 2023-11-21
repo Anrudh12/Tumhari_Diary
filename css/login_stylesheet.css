@@ -1,0 +1,83 @@
+body {
+  background: url(../images/background_login.jpg) center no-repeat;
+  background-size: cover;
+  background-color: white;
+  background-attachment: fixed;
+}
+#head-login {
+  color: #ffffffe0;
+}
+.form-window {
+  background-color: rgba(0, 0, 0, 0.55);
+  text-align: center;
+}
+
+.display_center {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.form-elements {
+  display: block;
+}
+
+.form-elements input {
+  width: 97.8%;
+  height: 5.15vh;
+  background: none;
+  padding: 0;
+  border-bottom-color: aqua;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  color: white;
+  font-size: 17px;
+  outline: none;
+}
+
+.form-elements input:focus {
+  border-bottom: 1px #2196f3 solid;
+}
+
+.form-elements input[type="submit"] {
+  width: 50%;
+  margin-top: 5%;
+  height: 6.15vh;
+  background: none;
+  padding: 0;
+  border: 1px #2196f3 solid;
+  color: white;
+  font-size: 15px;
+  outline: none;
+  letter-spacing: 2px;
+}
+
+.form-elements input[type="submit"]:hover {
+  border: 1px aqua solid;
+}
+
+.sign_up_line {
+  color: white;
+}
+
+.sign_up_line a {
+  text-decoration: none;
+  color: #2196f3;
+}
+
+::placeholder {
+  color: #ffffffe6;
+  font-family: sans-serif;
+}
+
+::-webkit-input-placeholder {
+  /* Edge */
+  color: #ffffffe6;
+  font-family: sans-serif;
+}
+
+label.error {
+  float: right;
+  color: yellow;
+}
