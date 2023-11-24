@@ -38,7 +38,7 @@ body {
 }
 
 .form-elements input:focus {
-  border-bottom: 1px #2196f3 solid;
+  border-bottom: 1px #2195f3 solid;
 }
 
 .form-elements input[type="submit"] {
