@@ -73,8 +73,7 @@ body {
 }
 
 ::-webkit-input-placeholder {
-  /* Edge */
-  color: #ffffffe6;
+    color: #ffffffe6;
   font-family: sans-serif;
 }
 
