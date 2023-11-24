@@ -8,9 +8,10 @@ body {
   color: #ffffffe0;
 }
 .form-window {
-  background-color: rgba(0, 0, 0, 0.55);
+  background-color: rgba(24, 0, 0, 0.55);
   text-align: center;
 }
+
 
 .display_center {
   display: grid;
