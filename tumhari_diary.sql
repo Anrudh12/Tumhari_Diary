@@ -38,10 +38,10 @@ INSERT INTO `user_accounts` (`user_id`, `name`, `email`, `password`, `time`, `st
 (16, 'lhlh', 'Ar@jsdkl.com', 'faad19301a55b8eecc9ee67682807f78', '17-0808-23 04:08:26', 1),
 (17, 'sdfjk', 'dashj@hf.com', 'e807f1fcf82d132f9bb018ca6738a19f', '17-08-23 04:08:56', 1),
 (18, 'A', 'a@a.com', 'e807f1fcf82d132f9bb018ca6738a19f', '17-08-23 04:08:21', 1),
-(19, 'Archit ', 'archit.yadav000@gmail.com', 'e807f1fcf82d132f9bb018ca6738a19f', '21-08-23 06:08:03', 1),
+(19, 'Archit ', 'anrudh.yadav000@gmail.com', 'e807f1fcf82d132f9bb018ca6738a19f', '21-08-23 06:08:03', 1),
 (20, 'Archit', 'q@q.com', 'e807f1fcf82d132f9bb018ca6738a19f', '22-08-23 11:08:58', 1),
 (21, 'qwer', 'a@jsd.com', 'e807f1fcf82d132f9bb018ca6738a19f', '23-08-23 10:08:44', 1),
-(22, 'archit singh yadav', 'w@w.com', 'e807f1fcf82d132f9bb018ca6738a19f', '23-08-23 10:08:19', 1);
+(22, 'anrudh singh yadav', 'w@w.com', 'e807f1fcf82d132f9bb018ca6738a19f', '23-08-23 10:08:19', 1);
 
 -- --------------------------------------------------------
 
